@@ -6,5 +6,5 @@
 - 🤔 I’m looking for help with ... API's.
 - 💬 Ask me about ... Anything.
 - 📫 How to reach me: ... [LinkedIn](https://www.linkedin.com/in/andrew-rust-ds/) [Project Site](https://drewrust.github.io)
-- 😄 ⚡ Fun fact: ... I'm an aspiring woodworker and I like 🏃 🏃
+- 😄 ⚡ Fun facts: ... I'm an aspiring woodworker and I like 🏃 🏃
 
